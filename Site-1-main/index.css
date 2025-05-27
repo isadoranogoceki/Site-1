@@ -1,0 +1,11 @@
+body {
+    color: rgb(244, 117, 244);
+    background-color: black;
+}
+
+ul{
+   display: flex; 
+   justify-content: space-between;
+   list-style-type: none;
+   align-items: center;
+}
