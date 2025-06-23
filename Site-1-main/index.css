@@ -1,6 +1,6 @@
 body {
-    color: rgb(243, 107, 48);
-    background-color: rgb(237, 59, 160);
+    color: rgb(10, 9, 9);
+    background-color: rgb(245, 151, 204);
     font-family: Arial;
 }
 
@@ -13,7 +13,21 @@ ul{
 }
 
 a {
-    color:white;
+    color:rgb(22, 20, 20);
 text-decoration: none;
+}
 
+img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 5px solid rgb(194, 85, 244);
+}
+
+.center{
+text-align: center;
+}
+
+h1{
+    color: black ;
 }
